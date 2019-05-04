@@ -2,7 +2,7 @@
 
 ![](https://media.giphy.com/media/13Zn7jKeFN04z6/giphy.gif)
 
-Projects
+### Projects
 
 1 - [Part-Of-Speech Tagger with Hidden Markove Model](https://github.com/2series/Natural-Language-Processing/tree/master/Project%201%20-%20POS%20HMM%20Tagger)
 
